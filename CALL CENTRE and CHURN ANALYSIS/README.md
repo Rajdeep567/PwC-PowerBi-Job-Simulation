@@ -90,4 +90,4 @@ Most customers prefer phone and internet services, with a strong preference for 
 
 ## Connect With me
 
-Rajdeep kangsha Banik <a href="https://www.linkedin.com/in/rajdeep-banik-a38133230/" alt="Rajdeep"><img src="./Icons/LinkedIn.png" height="15" alt="linkedin" title="linkedin"></a>
+Rajdeep kangsha Banik <a href="https://www.linkedin.com/in/rajdeep-banik-a38133230/" alt="Rajdeep"><img src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDuwrG9n%2FS5C2b6anfU6x2Q%3D%3D" height="15" alt="linkedin" title="linkedin"></a>
