@@ -42,7 +42,14 @@ Calculating the following measures could help to define proper KPIs:
 - performance
 - turnover
 **and create a visualisation Write what you think some root causes of their slow progress might be**
+  
+## Analysis Summary
+The slow progress toward gender balance at the executive management level is a multifaceted issue rooted in historical hiring practices, societal expectations, and organizational structures. Addressing this challenge requires:
 
+Active policies to combat unconscious bias and ensure equal promotion opportunities.
+Enhanced work-life integration support, especially for women in the 30-49 age group where family responsibilities often clash with career growth.
+Promoting women in key departments and building strong mentorship and sponsorship networks to help women advance to leadership roles.
+Achieving gender parity in executive management will require concerted efforts across multiple areas, including policy changes, organizational culture shifts, and the creation of opportunities for women to grow into leadership positions
 
 ## Tools
 
@@ -73,5 +80,4 @@ Calculating the following measures could help to define proper KPIs:
 
 ## Connect With me
 
-Rajdeep kangsha Banik <a href="https://www.linkedin.com/in/rajdeep-banik-a38133230/" alt="Rajdeep"><img src="./Icons/LinkedIn.png" height="15" alt="linkedin" title="linkedin"></a>
-
+Rajdeep kangsha Banik <a href="https://www.linkedin.com/in/rajdeep-banik-a38133230/" alt="Rajdeep"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" alt="linkedin" title="linkedin"></a>
