@@ -81,10 +81,10 @@ Most customers prefer phone and internet services, with a strong preference for 
 ## Dashboard
 
 **Call Centre Analysis Dashboard**
-![Call Centre Analysis](/DASHBOARD%20IMAGES/DASHBOARD%202.1.jpg) 
+![Call Centre Analysis](DASHBOARD%202.1.jpg) 
 
 **Customer retaintion Analysis Dashboard**
-![Customer retaintion Analysis](/DASHBOARD%20IMAGES/DASHBOARD%202.2.jpg)
+![Customer retaintion Analysis](DASHBOARD%202.2.jpg)
 
 <!-- Check the live dashboard from <a href="https://www.novypro.com/project/customer-retention-7" alt="customer retention"><img src="./Icons/novyPro.svg" height="12" alt="novypro" title="novypro"></a> (click the icon) -->
 
