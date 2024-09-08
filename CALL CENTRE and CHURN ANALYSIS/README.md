@@ -74,7 +74,7 @@ Most customers prefer phone and internet services, with a strong preference for 
 ## Tools
 
 <p style="float:left">
-<img src="./Icons/power-bi-icon.png" height="50" alt="Power BI" title="Power BI">
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="50" alt="Power BI" title="Power BI">
 </p>
 <div style="clear:both"></div>
 
@@ -90,4 +90,4 @@ Most customers prefer phone and internet services, with a strong preference for 
 
 ## Connect With me
 
-Rajdeep kangsha Banik <a href="https://www.linkedin.com/in/rajdeep-banik-a38133230/" alt="Rajdeep"><img src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDuwrG9n%2FS5C2b6anfU6x2Q%3D%3D" height="15" alt="linkedin" title="linkedin"></a>
+Rajdeep kangsha Banik <a href="https://www.linkedin.com/in/rajdeep-banik-a38133230/" alt="Rajdeep"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" alt="linkedin" title="linkedin"></a>
